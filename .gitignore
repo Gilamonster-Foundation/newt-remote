@@ -1,0 +1,20 @@
+# Rust
+/target
+Cargo.lock
+
+# Android / Gradle (once the app lands)
+*.iml
+.gradle/
+/local.properties
+/.idea/
+/captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.ap_
+*.dex
+/build/
+/app/build/
+
+# macOS
+.DS_Store
